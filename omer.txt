@@ -1,1 +1,2 @@
 life is short let's code!
+build fast fail fast
